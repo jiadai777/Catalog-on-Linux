@@ -1,6 +1,6 @@
 # Item Catalog on Amazon Lightsail
 
-## This project is an Item Catalog prject previously by me and is now hosted on Amazon Lightsail server. It is public and can be visited by going to this IP address: 34.211.221.212 on your browser. This project is also meant to be graded by a Udacity grader, who will have access to my server remotely as a grader by using the private ssh key that I provide, and look over all the files and configurations I set up using the "grader" account.
+## This project is an Item Catalog project previously by me and is now hosted on Amazon Lightsail server. It is public and can be visited by going to this IP address: 34.211.221.212 on your browser. This project is also meant to be graded by a Udacity grader, who will have access to my server remotely as a grader by using the private ssh key that I provide, and look over all the files and configurations I set up using the "grader" account.
 
 ## Project Information:
 - IP Address: 34.211.221.212
